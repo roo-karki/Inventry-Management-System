@@ -1,0 +1,38 @@
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\bin\Debug\Inventry management system.exe.config
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\bin\Debug\Inventry management system.exe
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\bin\Debug\Inventry management system.pdb
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\obj\Debug\Inventry management system.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.customer.resources
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.product.resources
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.Purchase.resources
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.Sales.resources
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.SalesDetails.resources
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.Supplier.resources
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.Users.resources
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\obj\Debug\Inventry management system.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\obj\Debug\Inventry management system.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\obj\Debug\Inventry management system.exe
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\obj\Debug\Inventry management system.pdb
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.login.resources
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.Mainform.resources
+C:\Users\lenovo\source\repos\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.PurchaseDetails.resources
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\bin\Debug\Inventry management system.exe.config
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\bin\Debug\Inventry management system.exe
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\bin\Debug\Inventry management system.pdb
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\obj\Debug\Inventry management system.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.customer.resources
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.login.resources
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.Mainform.resources
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.product.resources
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.Properties.Resources.resources
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.PurchaseDetails.resources
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.Purchase.resources
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.Sales.resources
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.SalesDetails.resources
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.Supplier.resources
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\obj\Debug\Inventry_management_system.Users.resources
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\obj\Debug\Inventry management system.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\obj\Debug\Inventry management system.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\obj\Debug\Inventry management system.exe
+C:\Users\lenovo\Desktop\projects\Inventry management system\Inventry management system\obj\Debug\Inventry management system.pdb
